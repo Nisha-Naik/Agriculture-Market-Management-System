@@ -89,39 +89,68 @@ Users can search agricultural products by categories, improving navigation and u
 
 ### ⭐ Home Page  
 Displays nature-themed background with login/register button.  
-*(Add your screenshot here)*
+
+<img width="1011" height="591" alt="image" src="https://github.com/user-attachments/assets/e4b8d114-f145-426e-a456-80752c47247f" />
+
+
 
 ---
 
 ### ⭐ Login Page  
 User selects category (Farmer/Customer) and logs in.  
-*(Add screenshot here)*
+
+<img width="1005" height="595" alt="image" src="https://github.com/user-attachments/assets/cba67d62-cfee-4474-b3dd-1ec2a35d17f2" />
+
+
 
 ---
 
 ### ⭐ Digital Market Dashboard  
 Shows **Your Profile**, **Search**, **Our Products**.  
-*(Add screenshot here)*
+
+<img width="1026" height="546" alt="image" src="https://github.com/user-attachments/assets/44605494-c567-4178-a6a8-f52f86fc78e5" />
+
 
 ---
 
 ### ⭐ Product Category Page  
 Browse **Grains**, **Fertilizers**, and **Machinery**.  
-*(Add screenshot here)*
+
+<img width="939" height="698" alt="image" src="https://github.com/user-attachments/assets/03a4a927-aae5-4fe7-8493-0782898e10d5" />
+
 
 ---
 
 ### ⭐ Crops Table  
 Displays crop details like ID, name, and quantity.  
-*(Add screenshot here)*
+
+<img width="941" height="680" alt="image" src="https://github.com/user-attachments/assets/650051af-c7cb-4dcc-836f-4a5cc486ffe7" />
+
 
 ---
 
 ### ⭐ Fertilizer Table  
 Shows fertilizer name, components, and price.  
-*(Add screenshot here)*
+
+<img width="940" height="545" alt="image" src="https://github.com/user-attachments/assets/512daf2e-b97e-4518-bef0-1a21e3f57347" />
+
 
 ---
+
+
+### ⭐ Farmer Product Management System  
+This page allows farmers to manage their products by:
+
+- Adding new crops  
+- Viewing existing crops  
+- Updating crop quantities  
+- Managing fertilizer details  
+- Viewing machinery listings  
+
+<img width="1021" height="659" alt="image" src="https://github.com/user-attachments/assets/e693c4aa-b201-42ee-b892-3ce65b9c7b97" />
+
+---
+
 
 ## 🏗️ Technology Stack
 
