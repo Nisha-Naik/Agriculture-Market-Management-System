@@ -162,3 +162,38 @@ Shows fertilizer name, components, and price.
 └── config.php
 ```
 ---
+
+
+## ⚙️ Setup Instructions
+
+### 1️⃣ Clone Repository
+```bash
+git clone https://github.com/your-github-username/Agri-Market.git
+cd Agri-Market
+```
+
+### 2️⃣ Start XAMPP Server  
+- Start **Apache**  
+- Start **MySQL**
+
+### 3️⃣ Import Database  
+1. Open phpMyAdmin  
+2. Create a database named:  
+```
+Agri-Market_db
+```
+3. Import the SQL file located in `/database/Agri-Markety_db.sql`
+
+### 4️⃣ Run Application  
+Place the folder inside:
+```
+C:\xampp\htdocs\
+```
+
+Open the browser and visit:
+```
+http://localhost/Agri-Market
+```
+
+
+
