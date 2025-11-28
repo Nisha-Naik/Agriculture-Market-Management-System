@@ -195,5 +195,31 @@ Open the browser and visit:
 http://localhost/Agri-Market
 ```
 
+---
+## 🚀 Future Enhancements
+
+- 📱 Fully mobile-responsive version
+- 💬 Farmer–customer chat system
+- 🛒 Shopping cart & order module
+- 💳 Payment gateway integration
+- 📦 Delivery tracking
+- 🤖 AI-based fertilizer/crop recommendations
+- 📊 Real-time market price prediction
+- 🔔 Stock update & low-quantity alerts
+
+---
+
+
+## 👩‍💻 Developer
+
+**Nisha Naik**  
+B.E. Computer Science & Engineering  
+Alva’s Institute of Engineering & Technology (AIET), VTU  
+
+*Skilled in PHP, MySQL, and building real-world management systems.*
+
+---
+
+
 
 
