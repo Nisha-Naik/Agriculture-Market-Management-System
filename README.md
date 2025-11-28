@@ -144,6 +144,8 @@ Shows fertilizer name, components, and price.
 
 ## 📁 Project Structure
 
+```
+
 /Agri-Market
 ├── index.php
 ├── login.php
@@ -158,3 +160,5 @@ Shows fertilizer name, components, and price.
 │ ├── css/
 │ └── js/
 └── config.php
+```
+---
